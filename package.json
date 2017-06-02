@@ -44,5 +44,5 @@
     "socket.io-client": "^2.0.1",
     "yahoo-finance": "^0.3.2"
   },
-  "repository": "https://github.com/zzhakupov/wocky-stocks.git"
+  "repository": "https://github.com/zzhakupov/stocky-wocky.git"
 }

@@ -1,0 +1,32 @@
+.chart {
+    width: 80vw;
+    margin: 50px auto;
+}
+
+body {
+    background: #3366CC;
+}
+
+
+.list-item:hover {
+    background-color: #ff9b9b !important;
+}
+
+.list-item {
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+.grid-main {
+    margin-top: 20px !important;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #bbb;
+}
+a {
+    color: white;
+}
